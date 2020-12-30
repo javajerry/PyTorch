@@ -9,3 +9,6 @@ This paradigm of programming is known as machine learning, where we use data to 
 
 This picture from book Deep Learning with Python by Francois Chollet captures the difference between classical programming and machine learning:
 
+![plot](./oJEQe7k.png)
+
+
